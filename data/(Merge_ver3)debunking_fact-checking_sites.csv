@@ -2,7 +2,7 @@ name,domain,twitter_account,hashtag
 AFP Fact Check,factcheck.afp.com,AFPFactCheck,
 Africa Check,africacheck.org,AfricaCheck,
 Alt News,altnews.in,AltNews,
-AP Fact Check,apnews.com/article/.*?fact-check,APFactCheck,
+AP Fact Check,apnews.com/.*?fact-check,APFactCheck,
 BBC Reality Check,bbc.com/news/reality_check,BBCRealityCheck,
 BBC News (UK),,BBCNews,#BBCRealityCheck
 BOOM FactCheck,boomlive.in,boomlive_in,
