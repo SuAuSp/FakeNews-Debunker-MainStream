@@ -25,7 +25,7 @@ import httplib2
 
 def perspective_analyze(text, proxy=False, proxy_host="192.168.50.183", proxy_port=7890):
 
-    API_KEY = 'AIzaSyAPlZbUYD2pYxmz_CsDPUe5vNIQFiGlxS0'
+    API_KEY = ''
 
     proxy_info = httplib2.ProxyInfo(
         proxy_type=httplib2.socks.PROXY_TYPE_HTTP,
